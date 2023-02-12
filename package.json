@@ -89,7 +89,7 @@
   "license": "MIT",
   "devDependencies": {
     "@graphql-codegen/add": "^2.0.2",
-    "@graphql-codegen/cli": "^1.19.4",
+    "@graphql-codegen/cli": "^3.0.0",
     "@graphql-codegen/time": "^2.0.2",
     "@graphql-codegen/typescript": "^1.19.0",
     "@graphql-codegen/typescript-graphql-files-modules": "^1.18.1",
